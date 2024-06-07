@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std; // removes need to put std etc;
+using namespace std // removes need to put std et
 
 int main() 
 {
