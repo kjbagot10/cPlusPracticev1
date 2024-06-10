@@ -94,7 +94,7 @@ void pointers()
     std::cout << pName;
 }
 
-dynamicMemory = Memory in the heap rather than stack. done by using new.
+//dynamicMemory = Memory in the heap rather than stack. done by using new.
 
 void dynamicMemory()
 {
